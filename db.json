@@ -1,3 +1,20 @@
 {
-    "notes": []
+  "notes": [
+    {
+      "tags": [
+        "walk",
+        "dog"
+      ],
+      "id": 1702228889145,
+      "content": "walk my dog todo"
+    },
+    {
+      "tags": [
+        "clean",
+        "room"
+      ],
+      "id": 1702229531976,
+      "content": "clean my room todo"
+    }
+  ]
 }
